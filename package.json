@@ -1,0 +1,15 @@
+{
+  "name": "casino-bot",
+  "version": "1.0.0",
+  "description": "Bot de Casino completo para Discord",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "engines": {
+    "node": ">=16.11.0"
+  }
+}
